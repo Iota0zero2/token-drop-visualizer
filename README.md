@@ -1,6 +1,6 @@
 # Token Drop Visualizer
 
-A simple desktop app that visualizes the odds of a party getting a The pirate-token in Fortnite from chests (default drop rate: 1 in 137,000).
+A simple desktop app that visualizes the odds of a party getting the pirate token in Fortnite from chests (default drop rate: 1 in 137,000).
 
 When one party member gets the token, the whole party gets it, so every number is for the whole party.
 
