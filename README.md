@@ -20,3 +20,7 @@ It only needs Python 3 with tkinter. There are no other dependencies.
 - Odds for each time frame, from one chest up to one year, plus a clickable luck-meter gauge.
 - "Simulate a grind" rolls a random drop time.
 - Settings (Cmd+,): edit each slider's min, max and step, and the drop rate. These are saved to `settings.json`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
